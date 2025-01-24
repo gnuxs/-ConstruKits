@@ -40,7 +40,7 @@ Este repositorio incluye:
 
 ---
 ### **1. Esquema Mecano con Porcelanicrón**
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp" alt="Sample Image" style="width:50%; height:auto;">
+<img src="https://raw.githubusercontent.com/gnuxs/-ConstruKits/refs/heads/main/DALL%C2%B7E%202025-01-22%2013.04.10%20-%20A%20set%20of%20mechanical%20building%20pieces%20inspired%20by%20Mecano%20and%20LEGO%2C%20designed%20for%20robot%20construction.%20The%20pieces%20include%20flat%20perforated%20strips%20(5%20cm%20long.webp" alt="Sample Image" style="width:50%; height:auto;">
 
 
 
